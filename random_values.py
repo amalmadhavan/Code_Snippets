@@ -1,4 +1,4 @@
-#This is a python code to generate random values of names, cities, phone number etc.
+#This is a python code to generate random values of names, address,email, phone number etc.
 
 import random
 
